@@ -28,7 +28,7 @@
 
 1. Clone this repository to your local machine:
 ```bash
-https://github.com/AiGptCode/AskyourDocuments.git
+git clone https://github.com/AiGptCode/AskyourDocuments.git
 ```
 2. Install the required Python packages:
 ```bash
