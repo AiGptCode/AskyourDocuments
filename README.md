@@ -1,4 +1,4 @@
-# 📄 Ask your Documents  🤖
+# 💻 Ask your Documents  🤖
 
 👋 Welcome to the Document QA system! This repository contains the code for a system that allows you to ask questions about your documents and get answers based on their contents. It supports a wide range of document formats, including PDF, Word, Excel, PowerPoint, text files, and even images!
 
@@ -67,7 +67,7 @@ git push origin my-feature-branch
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## 🎉 Acknowledgments
 
