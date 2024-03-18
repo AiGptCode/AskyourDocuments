@@ -4,7 +4,7 @@
 
 ## 🚀 Features
 
-* 📄 Supports a variety of document formats, including PDF, Word, Excel, PowerPoint, text files, and images
+* 💻 Supports a variety of document formats, including PDF, Word, Excel, PowerPoint, text files, and images
 * 🤖 Uses the Hugging Face Transformers library to create embeddings for document chunks
 * 🔍 Uses the FAISS library to create an index for those embeddings, allowing for efficient similarity search
 * 💬 Allows users to ask questions about their documents and get answers based on the contents of those documents
