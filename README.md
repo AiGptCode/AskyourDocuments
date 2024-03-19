@@ -5,7 +5,7 @@
 <a href="https://ibb.co/2WfRtKN"><img src="https://i.ibb.co/0md1MJt/IMG-1413.jpg" alt="IMG-1413" border="0"></a><br /><a target='_blank' href='https://it.imgbb.com/'>
  
 ## 🚀 Features
- 
+
 * 💻 Supports a variety of document formats, including PDF, Word, Excel, PowerPoint, text files, and images
 * 🤖 Uses the Hugging Face Transformers library to create embeddings for document chunks
 * 🔍 Uses the FAISS library to create an index for those embeddings, allowing for efficient similarity search
