@@ -1,5 +1,5 @@
 # 💻 Ask your Documents  🤖
-
+ 
 👋 Welcome to the Document QA system! This repository contains the code for a system that allows you to ask questions about your documents and get answers based on their contents. It supports a wide range of document formats, including PDF, Word, Excel, PowerPoint, text files, and even images!
 
 <a href="https://ibb.co/2WfRtKN"><img src="https://i.ibb.co/0md1MJt/IMG-1413.jpg" alt="IMG-1413" border="0"></a><br /><a target='_blank' href='https://it.imgbb.com/'>
